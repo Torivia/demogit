@@ -4,6 +4,6 @@ public class Main {
         //create a variable that describes what you think of coding so far
         String iThinkCodingIs = "super dUper kewl";
         boolean doYouGuysLikeItSoFar = true;
-        //newstaging commit and ready to push GTITBHUB online
+        //new staging commit and ready to push GTITBHUB online
     }
 }
